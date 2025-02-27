@@ -1,4 +1,4 @@
-# Ola, me chamo Camily Guilherme de Oliveira <img src="https://cdn.picrew.me/shareImg/org/202502/338224_7wcuPpj5.png" align="right" width="100"/>
+# Ola!, me chamo Camily Guilherme de Oliveira <img src="https://cdn.picrew.me/shareImg/org/202502/338224_7wcuPpj5.png" align="right" width="100"/>
 
 - 📅 21 anos  
 - 🎓 Especialista na Area de Front-end  
