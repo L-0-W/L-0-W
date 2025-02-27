@@ -28,3 +28,4 @@
 + Power BI: ███████░░░ 65%
 ```
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camilyolivei&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=camilyolivei&layout=compact)
