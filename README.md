@@ -1,4 +1,4 @@
-# Camily Guilherme de Oliveira <img src="https://picrew.me/ja/image_maker/338224" align="right" width="100"/>
+# Camily Guilherme de Oliveira <img src="https://cdn.picrew.me/shareImg/org/202502/338224_7wcuPpj5.png" align="right" width="100"/>
 **Idade:** 21 anos  
 **Especialista:** Front-End  
 **Faculdade:** Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG  
