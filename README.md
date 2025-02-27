@@ -1,13 +1,167 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=l-0-w&label=Profile%20views&color=0e75b6&style=flat" alt="l-0-w" /> </p>
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Camily Guilherme</title>
+    <style>
+        :root {
+            --cor-primaria: #2c3e50;
+            --cor-secundaria: #3498db;
+            --cor-destaque: #e74c3c;
+            --cor-fundo: #ecf0f1;
+        }
 
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            margin: 2rem;
+            padding: 2rem;
+            background: var(--cor-fundo);
+            color: var(--cor-primaria);
+            line-height: 1.6;
+        }
 
-<h1 align="center">Ola, me chamo Camily Guilher de Oliveira</h1>
-<h3 align="center">Profissional em Front-End</h3>
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+        }
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+        .header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-0-w&show_icons=true&locale=en&layout=compact" alt="l-0-w" /></p>
+        .header img {
+            width: 150px;
+            height: 150px;
+            border-radius: 50%;
+            border: 3px solid var(--cor-secundaria);
+            margin-bottom: 1rem;
+        }
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l-0-w&show_icons=true&locale=en" alt="l-0-w" /></p>
+        .nome {
+            font-size: 2.5rem;
+            color: var(--cor-primaria);
+            margin: 0.5rem 0;
+        }
 
+        .cargo {
+            font-size: 1.2rem;
+            color: var(--cor-secundaria);
+            margin-bottom: 1rem;
+        }
+
+        .secao {
+            margin-bottom: 2rem;
+            padding-bottom: 1rem;
+            border-bottom: 2px solid var(--cor-secundaria);
+        }
+
+        .secao h2 {
+            color: var(--cor-destaque);
+            margin-bottom: 1rem;
+        }
+
+        .info-item {
+            display: flex;
+            align-items: center;
+            margin: 0.8rem 0;
+        }
+
+        .info-item svg {
+            margin-right: 0.5rem;
+            color: var(--cor-secundaria);
+        }
+
+        .progresso {
+            background: #e0e0e0;
+            border-radius: 10px;
+            height: 8px;
+            margin: 1rem 0;
+        }
+
+        .progresso-fill {
+            background: var(--cor-destaque);
+            width: 85%;
+            height: 100%;
+            border-radius: 10px;
+        }
+
+        .habilidades {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+            gap: 1rem;
+        }
+
+        .habilidade-item {
+            padding: 1rem;
+            text-align: center;
+            background: white;
+            border-radius: 8px;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .footer {
+            text-align: center;
+            margin-top: 2rem;
+        }
+
+        .footer a {
+            color: var(--cor-secundaria);
+            text-decoration: none;
+            margin: 0 0.5rem;
+        }
+
+        @media (max-width: 600px) {
+            .nome {
+                font-size: 2rem;
+            }
+            
+            .header img {
+                width: 120px;
+                height: 120px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <img src="https://via.placeholder.com/150" alt="Foto de Perfil">
+            <div class="nome">Camily Guilherme</div>
+            <div class="cargo">Desenvolvedora Front-End</div>
+        </div>
+
+        <div class="secao">
+            <h2>Sobre</h2>
+            <div class="info-item">
+                📅 Idade: 21 anos
+            </div>
+            <div class="info-item">
+                🎓 Formação: Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG
+            </div>
+        </div>
+
+        <div class="secao">
+            <h2>Habilidades</h2>
+            <div class="progresso">
+                <div class="progresso-fill"></div>
+            </div>
+            <div class="habilidades">
+                <div class="habilidade-item">JavaScript</div>
+                <div class="habilidade-item">HTML5</div>
+                <div class="habilidade-item">CSS3</div>
+                <div class="habilidade-item">React</div>
+                <div class="habilidade-item">Power BI</div>
+                <div class="habilidade-item">Banco de Dados</div>
+            </div>
+        </div>
+
+        <div class="footer">
+            <a href="https://github.com/seu-usuario" target="_blank">GitHub</a>
+            ·
+            <a href="#">LinkedIn</a>
+        </div>
+    </div>
+</body>
+</html>
