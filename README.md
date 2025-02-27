@@ -4,7 +4,7 @@
 - 🎓 Especialista na Area de Front-end  
 - 🎒 Cursando Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG  
 
----
+<br />
 
 <div>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=camilyolivei&show_icons=true&theme=radical"/>
