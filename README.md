@@ -1,7 +1,8 @@
-# Camily Guilherme de Oliveira <img src="https://cdn.picrew.me/shareImg/org/202502/338224_7wcuPpj5.png" align="right" width="100"/>
-**Idade:** 21 anos  
-**Especialista:** Front-End  
-**Faculdade:** Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG  
+# Ola, me chamo Camily Guilherme de Oliveira <img src="https://cdn.picrew.me/shareImg/org/202502/338224_7wcuPpj5.png" align="right" width="100"/>
+
+- 📅 21 anos  
+- 🎓 Especialista na Area de Front-end  
+- 🎒 Cursando Análise e Desenvolvimento de Sistemas (3º Período) - FAMINAS/MG  
 
 ---
 
