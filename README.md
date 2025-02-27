@@ -27,8 +27,4 @@
 + CSS: ██████████░░ 80%
 + Power BI: ███████░░░ 65%
 ```
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=l-0-w&show_icons=true&locale=en&layout=compact" alt="l-0-w" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=l-0-w&show_icons=true&locale=en" alt="l-0-w" /></p>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
